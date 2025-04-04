@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMealPlanner</string>
+    <string name="enter_the_time_of_the_day">Enter the time of the day</string>
+    <string name="submit">Submit</string>
+    <string name="your_meal_suggestions_will_appear_here">Your meal suggestions will appear here</string>
+    <string name="reset">Reset</string>
+    <string name="todo">TODO</string>
+</resources>
